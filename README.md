@@ -2,7 +2,7 @@
 
 춘식이로더를 위한 Windows 설치파일과 최신 업데이트 파일을 제공하는 저장소입니다.
 
-## 최신 버전 0.1.48
+## 최신 버전 0.1.49
 
 [춘식이로더 설치파일 다운로드](https://github.com/gasow78/chunsiki-loader-engine/releases/latest/download/ChunsikiLoader_Setup.exe)
 
