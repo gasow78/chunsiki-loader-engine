@@ -1,23 +1,27 @@
-# 춘식이로더 Windows 다운로드
+# 춘식이로더 (ChunsikiLoader)
 
-춘식이로더를 위한 Windows 설치파일과 최신 업데이트 파일을 제공하는 저장소입니다.
+여러 사이트의 영상·이미지를 손쉽게 저장하는 Windows 전용 프로그램입니다.
 
-## 최신 버전 0.1.69
+## 📥 다운로드 / 설치
 
-### ⬇ [춘식이로더 설치파일 다운로드 (.exe)](https://github.com/gasow78/chunsiki-loader-engine/releases/latest/download/ChunsikiLoader_Setup.exe)
+아래 링크(또는 이 페이지 아래 **Assets**)에서 `ChunsikiLoader_Setup.exe`를 받아 실행하세요.
 
-- 지원 운영체제: 64비트 Windows 10/11
-- 위 **.exe 설치파일**을 받아 실행하세요. 설치 후에는 실행할 때마다 자동으로 최신 버전으로 업데이트됩니다.
+### 👉 [최신 버전 설치파일 받기](https://github.com/gasow78/chunsiki-loader-engine/releases/latest/download/ChunsikiLoader_Setup.exe)
 
-### 다운로드·설치 중 경고가 뜨면 (정상입니다 — 아직 코드 서명 전이라 그래요)
+**설치 방법**
 
-아직 서명되지 않은 새 프로그램이라 아래 경고가 뜰 수 있어요. 파일 출처가 이 GitHub 저장소면 안전합니다.
+1. 위 링크로 `ChunsikiLoader_Setup.exe`를 받습니다.
+2. 받은 파일을 두 번 눌러 실행하면 설치가 시작됩니다.
+3. 설치 후에는 실행할 때마다 **최신 버전으로 자동 업데이트**됩니다. (다시 받을 필요 없음)
 
-1. **크롬에서 "위험한 다운로드가 차단됨" 또는 "일반적으로 다운로드되지 않는 파일"** 이 뜨면
-   → 다운로드 알림의 **∨(펼치기) → "계속" 또는 "보관"** 을 누르세요.
-2. **실행할 때 "Windows가 PC를 보호했습니다"** 가 뜨면
-   → **`추가 정보` → `실행`** 을 누르세요.
+## ⚠️ "Windows가 PC를 보호했습니다" 창이 뜨면?
 
-> 압축본([ChunsikiLoader_Setup.zip](https://github.com/gasow78/chunsiki-loader-engine/releases/latest/download/ChunsikiLoader_Setup.zip))은 `.exe` 가 **이메일·메신저로 막히는 경우에만** 쓰세요. 크롬 다운로드로는 **.exe 가 덜 막힙니다**(.zip 은 더 강하게 차단됨).
+**[추가 정보]** → **[실행]** 을 누르세요.
+**정식 코드 서명된 프로그램**이라 안전합니다. (새로 서명된 버전이라 평판이 쌓이기 전까지 잠시 이 안내가 뜰 수 있습니다.)
 
-[전체 버전별 설치 파일 목록](https://github.com/gasow78/chunsiki-loader-engine/releases)
+## 정보
+
+- 지원 OS: 64비트 Windows 10 / 11
+- 최신 버전: **0.1.69**
+- 코드 서명: **완료** (CN=춘식닷컴)
+- 설치 후 자동 업데이트 지원
