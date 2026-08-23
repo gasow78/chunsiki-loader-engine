@@ -2,7 +2,7 @@
 
 여러 사이트의 영상·이미지를 손쉽게 저장하는 Windows 전용 프로그램입니다.
 
-## 📥 다운로드 / 설치 — 최신 버전 0.1.71
+## 📥 다운로드 / 설치 — 최신 버전 0.1.72
 
 ### 👉 [춘식이로더 설치파일 다운로드 (.exe)](https://github.com/gasow78/chunsiki-loader-engine/releases/latest/download/ChunsikiLoader_Setup.exe)
 
